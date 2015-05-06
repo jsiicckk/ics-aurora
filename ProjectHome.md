@@ -1,0 +1,1 @@
+Device files and changes necessary to build Code Aurora for the u8800.
